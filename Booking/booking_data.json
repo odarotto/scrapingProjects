@@ -1,0 +1,131 @@
+[
+    {
+        "name": " Catalonia Atenas",
+        "score": "8.0",
+        "location": "Avenida Meridiana, 151, Sant Mart\u00ed, 08026 Barcelona, Spain",
+        "popular_facilities": [
+            "Parking",
+            "Free WiFi",
+            "Swimming pool",
+            "Spa",
+            "Family rooms",
+            "Outdoor pool",
+            "Bar"
+        ]
+    },
+    {
+        "name": "Apartment Habitat Apartments Alibei",
+        "score": "8.1",
+        "location": "Carrer d'Al\u00ed Bei, 29, Eixample, 08010 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Elevator",
+            "Air conditioning"
+        ]
+    },
+    {
+        "name": "Apartment Habitat Apartments Bail\u00e9n",
+        "score": "7.8",
+        "location": "Carrer de Bail\u00e8n, 22, Eixample, 08010 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Elevator",
+            "Air conditioning",
+            "Heating"
+        ]
+    },
+    {
+        "name": "Apartment Sealona Center Apartments",
+        "score": "9.4",
+        "location": "Carrer de Girona 17, 2-1, Eixample, 08010 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Elevator",
+            "Air conditioning",
+            "Heating"
+        ]
+    },
+    {
+        "name": "Apartment Arago312 Apartments",
+        "score": "9.2",
+        "location": "Arag\u00f3, 312, Eixample, 08009 Barcelona, Spain",
+        "popular_facilities": [
+            "Parking",
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Pet friendly",
+            "Non-smoking rooms"
+        ]
+    },
+    {
+        "name": "Apartment Bcn Paseo De Gracia Rocamora Apartmen",
+        "score": "9.1",
+        "location": "Different locations, Eixample, 08007 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Family rooms",
+            "Elevator",
+            "Air conditioning",
+            "Heating"
+        ]
+    },
+    {
+        "name": "Apartment Blackandwhitehome Poble Nou - Playa",
+        "score": "8.4",
+        "location": "Venero, 8, Sant Mart\u00ed, 08005 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Air conditioning"
+        ]
+    },
+    {
+        "name": "Apartment Weflating Park G\u00fc",
+        "score": "8.5",
+        "location": "Rep\u00fablica Argentina, 36, Gr\u00e0cia, 08023 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Elevator",
+            "Air conditioning"
+        ]
+    },
+    {
+        "name": "Apartment Habitat Apartments Boulevard",
+        "score": "7.4",
+        "location": "Enric Granados, 47, Eixample, 08008 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Elevator",
+            "Air conditioning"
+        ]
+    },
+    {
+        "name": "Apartment Apartment Aptuca",
+        "score": "8.6",
+        "location": "Carrer de les Acacies, 52, Sant Andreu, 08027 Barcelona, Spain",
+        "popular_facilities": [
+            "Parking",
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Pet friendly",
+            "Terrace"
+        ]
+    }
+]
